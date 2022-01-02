@@ -5,5 +5,5 @@
 4. Skills:
 5. Code:
 6. Work experience: engineer-programmer "Joint-stock company rocket space center "Progress" 2020 - until now
-7. Education: Bachelor of science in Automation of technological processes and production
+7. Education: Bachelor of science in Automation of technological processes and production, courses of English in Samara University (2 years)
 8. English: A2
