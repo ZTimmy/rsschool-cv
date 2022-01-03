@@ -1,14 +1,15 @@
 #rsschool-cv
-1. Zainutdinov Timur
-2. Contact info: 
-+79276896112 
-tim.zainutdinov97@gmail.com 
-Samara Russia
-4. I like programming. I want to try both front-end and back-end. For now my goal is to learn how to create web-pages.
+##Zainutdinov Timur
+##Contact info: 
+*+79276896112 
+*tim.zainutdinov97@gmail.com 
+*Samara Russia
+##Summary: 
+I like programming. I want to try both front-end and back-end. For now my goal is to learn how to create web-pages.
 5. Skills: 
-HTML 
-CSS 
-Python.
+*HTML 
+*CSS 
+*Python.
 7. Work experience: 
 2020-PRESENT
 JOINT STOCK COMPANY ROCKET AND SPACE CENTER "PROGRESS"
