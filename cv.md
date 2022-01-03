@@ -25,6 +25,7 @@ Technical support of CAE Ansys and MSC.Software
 2016-2020  
 Bachelor of Science in Automation of technological processes and production  
 Samara University  
+  
 2018-2020  
 English translator assistant  
 Samara University  
