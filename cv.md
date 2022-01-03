@@ -1,26 +1,26 @@
-#rsschool-cv
+# rsschool-cv
 
-##Zainutdinov Timur
+## Zainutdinov Timur
 
-##Contact info: 
+## Contact info: 
 * +79276896112 
 * tim.zainutdinov97@gmail.com 
 * Samara Russia
 
-##Summary: 
+## Summary: 
 I like programming. I want to try both front-end and back-end. For now my goal is to learn how to create web-pages.
-5. Skills: 
+Skills: 
 * HTML 
 * CSS 
 * Python.
 
-##Work experience: 
+## Work experience: 
 2020-PRESENT
 JOINT STOCK COMPANY ROCKET AND SPACE CENTER "PROGRESS"
 Software engineer
 Technical support of CAE Ansys and MSC.Software
 
-##Education: 
+## Education: 
 2016-2020
 Bachelor of Science in Automation of technological processes and production
 Samara University
@@ -28,5 +28,5 @@ Samara University
 English translator assistant
 Samara University
 
-##English: 
+## English: 
 * A2+
