@@ -13,7 +13,7 @@ I like programming. I want to try both front-end and back-end. For now my goal i
 ## Skills: 
 * HTML 
 * CSS 
-* Python.
+* Python
 
 ## Work experience: 
 2020-PRESENT  
