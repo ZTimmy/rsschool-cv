@@ -1,9 +1,24 @@
 #rsschool-cv
 1. Zainutdinov Timur
-2. E-mail: tim.zainutdinov97@gmail.com
-3. Summary: I want to be one the best front-end programmers and to work in the famous company.
-4. Skills: python, javascript
-5. Code:
-6. Work experience: engineer-programmer "Joint-stock company rocket space center "Progress" 2020 - until now
-7. Education: Bachelor of science in Automation of technological processes and production, courses of English in Samara University (2 years)
+2. Contact info: 
++79276896112 
+tim.zainutdinov97@gmail.com 
+Samara Russia
+4. I like programming. I want to try both front-end and back-end. For now my goal is to learn how to create web-pages.
+5. Skills: 
+HTML 
+CSS 
+Python.
+7. Work experience: 
+2020-PRESENT
+JOINT STOCK COMPANY ROCKET AND SPACE CENTER "PROGRESS"
+Software engineer
+Technical support of CAE Ansys and MSC.Software
+7. Education: 
+2016-2020
+Bachelor of Science in Automation of technological processes and production
+Samara University
+2018-2020
+English translator assistant
+Samara University
 8. English: A2
